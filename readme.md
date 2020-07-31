@@ -1,5 +1,7 @@
 # The Hackathon Finder 
 **Deployed Application can be viewed [here](https://pacific-bayou-03953.herokuapp.com/)**  
+Mock Student username: student4@gmail.com password: student4  
+Mock Business username: google@gmail.com password: google  
 
 Closing the gap between education and industry in technology. 
 
