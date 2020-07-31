@@ -1,15 +1,7 @@
 # The Hackathon Finder 
+**Deployed Application can be viewed [here](https://pacific-bayou-03953.herokuapp.com/)**  
 
 Closing the gap between education and industry in technology. 
-
-## Link to Heroku 
-https://git.heroku.com/pacific-bayou-03953.git
-
-## Github Repo Link 
-https://github.com/milesgalli/project-2.git
-
-## Github Link 
-https://github.com/milesgalli/project-2
 
 # Overview 
 
